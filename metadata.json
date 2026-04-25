@@ -1,0 +1,6 @@
+{
+  "name": "LuminaLogs",
+  "description": "A sophisticated log management and analysis system with real-time filtering, visual analytics, and AI-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Log Analysis", "Visual Dashboards", "AI Insights"]
+}
